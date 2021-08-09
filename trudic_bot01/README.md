@@ -11,7 +11,7 @@ Vlasov, Karavaev, Bakaev et al., 2021. CC BY-NC-ND License
     зайти в директорию с файлом Pipfile и ввести команду
     pipenv install 
 
-3.Нужен docker-compose для создания контейнеров баз данных
+3. Нужен docker-compose для создания контейнеров баз данных
     зайти в корень проекта и написать
     docker-compose up
 
